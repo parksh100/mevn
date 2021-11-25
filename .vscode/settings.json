@@ -1,0 +1,16 @@
+{
+    "cSpell.words": [
+        "imagename",
+        "middlewares",
+        "originalname"
+    ],
+    "git.ignoreLimitWarning": true,
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:mevn}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
